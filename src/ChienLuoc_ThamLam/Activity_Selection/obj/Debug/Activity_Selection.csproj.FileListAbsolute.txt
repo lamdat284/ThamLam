@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Activity_Selection\bin\Debug\Activity_Selection.exe.config
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Activity_Selection\bin\Debug\Activity_Selection.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Activity_Selection\bin\Debug\Activity_Selection.pdb
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Activity_Selection\obj\Debug\Activity_Selection.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Activity_Selection\obj\Debug\Activity_Selection.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Activity_Selection\obj\Debug\Activity_Selection.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Activity_Selection\obj\Debug\Activity_Selection.pdb
