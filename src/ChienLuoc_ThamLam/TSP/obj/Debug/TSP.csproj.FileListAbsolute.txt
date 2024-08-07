@@ -1,0 +1,8 @@
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\bin\Debug\TSP.exe.config
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\bin\Debug\TSP.exe
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\bin\Debug\TSP.pdb
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\obj\Debug\TSP.csproj.AssemblyReference.cache
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\obj\Debug\TSP.csproj.SuggestedBindingRedirects.cache
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\obj\Debug\TSP.exe
+E:\ThamLam\src\ChienLuoc_ThamLam\TSP\obj\Debug\TSP.pdb
