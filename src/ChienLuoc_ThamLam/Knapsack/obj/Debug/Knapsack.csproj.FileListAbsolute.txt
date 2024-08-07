@@ -1,0 +1,8 @@
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\bin\Debug\Knapsack.exe.config
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\bin\Debug\Knapsack.exe
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\bin\Debug\Knapsack.pdb
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\obj\Debug\Knapsack.csproj.AssemblyReference.cache
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\obj\Debug\Knapsack.csproj.SuggestedBindingRedirects.cache
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\obj\Debug\Knapsack.csproj.CoreCompileInputs.cache
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\obj\Debug\Knapsack.exe
+E:\ThamLam\src\ChienLuoc_ThamLam\Knapsack\obj\Debug\Knapsack.pdb
