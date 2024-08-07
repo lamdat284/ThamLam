@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Huffman\bin\Debug\Huffman.exe.config
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Huffman\bin\Debug\Huffman.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Huffman\bin\Debug\Huffman.pdb
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Huffman\obj\Debug\Huffman.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Huffman\obj\Debug\Huffman.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ThamLam\ThamLam\src\ChienLuoc_ThamLam\Huffman\obj\Debug\Huffman.pdb
