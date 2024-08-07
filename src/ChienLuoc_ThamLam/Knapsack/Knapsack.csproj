@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4A459C0D-EBEB-479F-8775-3E6575A289B6}</ProjectGuid>
+    <ProjectGuid>{3442C01F-307E-49F9-B7BB-EF687E141C67}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Activity_Selection</RootNamespace>
-    <AssemblyName>Activity_Selection</AssemblyName>
+    <RootNamespace>Knapsack</RootNamespace>
+    <AssemblyName>Knapsack</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
